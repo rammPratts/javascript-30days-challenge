@@ -23,3 +23,7 @@ I tried to solve every exercise without watching the video, just reading the tas
 ## Day 5 - Flex panel
 Today is my birthday! :)
 This project was more CSS oriented, working with flexbox which I don't know much at the moment (looking forward to learning it better!). Javascript was used only to toggle classes in HTML elements, which created the CSS transitions. It's a nice looking project, even though it's quite simple!
+
+## Day 6 - Type ahead
+Such a challenge! This one involves everything, promises, regular expressions, arrays... Quite a good one :) Even though it was
+not that easy, I thought making a feature like this would be harder. It's nice to see that I was wrong.
