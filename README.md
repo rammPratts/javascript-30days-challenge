@@ -27,3 +27,6 @@ This project was more CSS oriented, working with flexbox which I don't know much
 ## Day 6 - Type ahead
 Such a challenge! This one involves everything, promises, regular expressions, arrays... Quite a good one :) Even though it was
 not that easy, I thought making a feature like this would be harder. It's nice to see that I was wrong.
+
+##Day 7 - Array Cardio 2
+Easy one! last cardio exercise was harder, this one was not! Just worked with some array functions such as Array.some - Array.every and others. 
