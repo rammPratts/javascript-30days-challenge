@@ -28,5 +28,8 @@ This project was more CSS oriented, working with flexbox which I don't know much
 Such a challenge! This one involves everything, promises, regular expressions, arrays... Quite a good one :) Even though it was
 not that easy, I thought making a feature like this would be harder. It's nice to see that I was wrong.
 
-##Day 7 - Array Cardio 2
+## Day 7 - Array Cardio 2
 Easy one! last cardio exercise was harder, this one was not! Just worked with some array functions such as Array.some - Array.every and others. 
+
+## Day 8 - Canvas
+Yesterday I decided to take a break. This project is the one that I've liked the most! It was so fun to work with canvas, as I didn't know anything about it. When I finish this challenge, I'd like to work on a better version of this project, it's so cool :)
