@@ -33,3 +33,9 @@ Easy one! last cardio exercise was harder, this one was not! Just worked with so
 
 ## Day 8 - Canvas
 Yesterday I decided to take a break. This project is the one that I've liked the most! It was so fun to work with canvas, as I didn't know anything about it. When I finish this challenge, I'd like to work on a better version of this project, it's so cool :)
+
+## Day 9 - Dev Tool Tricks
+This wasn't actually a project, just some tips. So I felt commiting this was kind of useless :/
+
+## Day 10 - Hold Shift To Check Multiple Checkboxes
+This was a good challenge. I did it without watching the video, and came up with a good solution I think. It wasn't that hard to think of one, but still required a bit of thinking :) I haven't watched Wes video yet, so I don't know what he did.
